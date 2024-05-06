@@ -2,4 +2,9 @@
     <string name="app_name">Lab39</string>
     <string name="action_delete">Delete</string>
     <string name="action_duplicate">Duplicate</string>
+    <string name="add_fab_button">Добавить</string>
+    <string name="spinner_income">Income</string>
+    <string name="spinner_expenses">Expenses</string>
+    <string name="select_type_prompt">Select type</string>
+    <string name="amount_hint">Enter amount</string>
 </resources>

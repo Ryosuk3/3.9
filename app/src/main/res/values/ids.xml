@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ef_expenses_rv" type="id"/>
+    <item name="add_fab" type="id"/>
+    <item name="ef_current_balance_text" type="id"/>
+    <item name="type_spinner" type="id"/>
+    <item name="expense_amount_edit_text" type="id"/>
+    <item name="add_button" type="id"/>
+    <item name="expense_type_text" type="id"/>
+    <item name="expense_date_text" type="id"/>
+    <item name="expense_amount_text" type="id"/>
+    <item name="income_button" type="id"/>
+    <item name="expenses_button" type="id"/>
+    <item name="menu_delete" type="id"/>
+    <item name="context_menu_delete" type="id" />
+
+</resources>

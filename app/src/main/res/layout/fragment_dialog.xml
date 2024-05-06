@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dialog"
+    android:orientation="vertical">
+
+    <Spinner
+        android:id="@+id/type_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/choice_arr"
+        android:minHeight="32dp"
+        android:prompt="@string/select_type_prompt" />
+
+    <EditText
+        android:id="@+id/expense_amount_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="@string/amount_hint"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp" />
+</LinearLayout>
